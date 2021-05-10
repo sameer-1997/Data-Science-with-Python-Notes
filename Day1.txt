@@ -1,0 +1,174 @@
+Data Science with Python --- Day1
+===================================
+
+
+Agenda
+-------
+Course Introduction
+Batch Introduction
+What is Data Science
+Roles in a Data Scientist Project
+Set of Practices / Actions a Data Scientist Does?
+
+
+What is Data Science?
+
+- Extracting Intelligence
+- Generating Business
+- Gathering Data from various sources
+
+
+Data Science is a set of CROSS-DISCIPLINARY PRACTICES:
+
+- Data Engineering (Dealing with RAW data)
+	- Performing Data Acquisition and making data in one format
+	Hadoop, Spark
+
+- Descriptive Statistics
+- Data Mining / Machine Learing
+- Deep Learning
+- Predictive Analytics
+
+to generate DATA PRODUCT / BUSINESS DECISIONS !!!
+
+
+What is Bigdata?
+
+Bigdata is a TERM. Its not a technology. Its not a TOOL. Its all about the ability of the software/framework/architecture to HANDLE the data.
+
+HANDLE refers to :
+	1. LOAD
+	2. PROCESS
+	3. STORE
+
+If any of the above fails, you are facing a BIGDATA PROBLEM. Thus BIGDATA is problem definition !!!!
+
+e.g. 201201hourly.txt --- 507MB
+
+Notepad --> It tried but FAILED to LOAD the data. THUS for notepad, its a BIGDATA !!!
+Wordpad --> It tried, had some LATENCY, but loaded the data successfully. THUS for wordpad, its a NORMAL DATA !!!
+
+
+Typical Project Roles in Data Science
+=======================================
+
+1. Client  --- Represent the END user who will pay for using our data product | Giving them decisions.
+		Rs.100
+
+2. Project Sponsers -- Represent the business interest, Budget Handling, Timeline chart, Reports etc	
+		Rs.10
+
+3. Data Scientist -- Set and Execute Analytic Strategy, Communicate with the Sponser and Client
+		
+		- GOD of Data
+		- Expert in Statistics
+		- Expert in Maths
+		- Sound Technical Knowledge of all Tools which is associated to data
+		- Awesome in Domain Knowledge
+		- Expert in Story Telling
+
+Learn how to speak their language --- Comfortable with Jargon
+
+STONE   HARD
+	COLD
+	ROCK
+	WATER
+	SOUL STONE
+	MILE STONE
+	GREY
+	ICE
+	DIAMOND
+
+
+Civil Engineer ---> Concrete Stone, Bricks
+Doctor -----------> Gall Blader , Kidney Stone
+Archeaologist ----> Fossil Rocks
+Gemologist -------> Emerald , Ruby, Topaz, 
+
+
+
+Setup my team  (Expedite the team)
+======================================
+1. Domain Expert
+2. Expert in Python Language
+3. PMP guy (manage my project ) 
+4. Expert in Data Engineering
+5. Deployment and Handover.
+
+4. Data Architect --- Manage the data and ensures all process are uptime!
+	
+	- Expert in Hadoop , Spark , Distributed DB
+	- Expert in Data Handling
+	- Expert in NoSQL
+
+5. Operations ---> Manages the Infra, Deploys Final Project
+		Keeps the project 
+
+
+
+
+
+
+
+
+
+
+
+
+4. Data Architect
+
+5. Operations Team (Web Dev, DB team)
+
+
+
+
+
+
+
+Set of Practices / Actions a Data Scientist Does?
+
+1. Understand the Problem Statement and figure out whether you are comfortable with the domain or not?
+2. Relate the problem statement with Domain and perform cross-domain reference.
+3. Gather Relevant data / data product for the use-case.
+4. Apply Statistical Analysis over the data to the understand the data.
+5. Applying ML/DL algo over data
+6. Visualizing the results
+7. Presenting the result infront of the STAKEHOLDER using The STAKEHOLDER's JARGON
+8. Providing further inputs /strategies that can enhance their business
+9. Keeping a watch on KPI metrics to understand whether the product is performing or not
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
