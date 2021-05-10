@@ -1,0 +1,67 @@
+Python for Data Science --- Day 2
+==================================
+
+Trainer: Prashant Nair
+
+Agenda
+-------
+What is Python Programming?
+Python Basics -- Datatype | Accept user inputs
+Mathematical Operations
+Collections - List, Dictionaries, Tuples, Set
+Conditional statements (if, if..else, elif ladder, ternary operator)
+
+
+
+For Python --- Anaconda Navigator (Link was shared yesterday)
+
+Windows: https://repo.anaconda.com/archive/Anaconda3-2019.07-Windows-x86_64.exe
+MacOS: https://repo.anaconda.com/archive/Anaconda3-2019.07-MacOSX-x86_64.pkg
+Linux: https://repo.anaconda.com/archive/Anaconda3-2019.07-Linux-x86_64.sh
+What is Python Programming?
+
+Python is an interpreter language.
+
+
+How to start Jupyter Notebook?
+===================================
+
+1. Create a Folder where you will maintain all the programs
+
+ew.g. E:\DataScienceSL\12Aug2019DataScience
+
+2. Open Anaconda Prompt
+
+Start > Type ' Anaconda Prompt' > Click the same
+
+3. Navigate to the root folder where all your programs will be maintained
+
+E:
+cd E:\DataScienceSL\12Aug2019DataScience
+
+4. Will start Jupyter Server instance
+
+jupyter notebook
+
+
+Creating your first Jupyter Notebook
+======================================
+
+1. Navigate to the designated folder (e.g. Day2)
+
+2. Click New > Python3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
